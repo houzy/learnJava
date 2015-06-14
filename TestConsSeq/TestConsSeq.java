@@ -1,4 +1,4 @@
-package job;
+package TestConsSeq;
 
 public class TestConsSeq {
 
